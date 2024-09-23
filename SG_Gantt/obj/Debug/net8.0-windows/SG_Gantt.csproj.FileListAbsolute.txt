@@ -1,0 +1,10 @@
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\SG_Gantt.csproj.AssemblyReference.cache
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\SG_Gantt_MarkupCompile.cache
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\SG_Gantt.g.resources
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\SG_Gantt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\SG_Gantt.AssemblyInfoInputs.cache
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\SG_Gantt.AssemblyInfo.cs
+C:\Users\Stephen Griffiths\source\repos\SG_Gantt\SG_Gantt\obj\Debug\net8.0-windows\SG_Gantt.csproj.CoreCompileInputs.cache

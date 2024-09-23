@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xHLZgIwOQlZssB6ngdeVfZIIX5dDTx51jLPNEullyLKWsaXBzp12pRWNoxdZ+TU6f8T3RsWLT2Nu8EEgXlZY8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stephen Griffiths\\source\\repos\\SG_Gantt\\SG_Gantt\\SG_Gantt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephen Griffiths\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Stephen Griffiths\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Stephen Griffiths\\.nuget\\packages\\oxyplot.wpf\\2.2.0\\oxyplot.wpf.2.2.0.nupkg.sha512",
+    "C:\\Users\\Stephen Griffiths\\.nuget\\packages\\oxyplot.wpf.shared\\2.2.0\\oxyplot.wpf.shared.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
